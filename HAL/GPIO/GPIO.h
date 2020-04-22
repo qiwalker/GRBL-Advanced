@@ -59,8 +59,8 @@
 #define GPIO_LIM_X_PIN			GPIO_Pin_7
 #define GPIO_LIM_Y_PIN			GPIO_Pin_6
 #define GPIO_LIM_Z_PIN			GPIO_Pin_6
-#define GPIO_LIM_A_PIN			GPIO_Pin_0
-#define GPIO_LIM_B_PIN			GPIO_Pin_1
+#define GPIO_LIM_A_PIN			GPIO_Pin_11
+#define GPIO_LIM_B_PIN			GPIO_Pin_12
 
 // Spindle
 #define GPIO_SPINDLE_PWM_PORT	GPIOA
